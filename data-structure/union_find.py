@@ -1,3 +1,5 @@
+#see:https://note.nkmk.me/python-union-find/
+
 from collections import defaultdict
 
 class UnionFind():
